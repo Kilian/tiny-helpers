@@ -1,0 +1,10 @@
+{
+  "name": "Text to SVG",
+  "desc": "Convert text to SVG paths.",
+  "url": "https://text-to-svg.com/",
+  "tags": [
+    "SVG"
+  ],
+  "maintainers": [],
+  "addedAt": "2025-06-25"
+}
